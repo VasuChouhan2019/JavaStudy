@@ -1,7 +1,7 @@
 
 public class Main {
     public static void main(String[] args){
-        System.out.println("Hello and welcome! to my first code, Changes made on github");
+        System.out.println("Hello and welcome! to my first code");
 
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = " + i);
